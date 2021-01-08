@@ -27,7 +27,7 @@
 
 <!-- MarkdownTOC autolink="true" -->
 
-- [About the Firefly III CSV importer](#about-the-firefly-iii-csv-importer)
+- [About the Firefly III CSV importer](#about-the-firefly-iii-csv-importer) 
 	- [Purpose](#purpose)
 	- [Features](#features)
 	- [Who's it for?](#whos-it-for)
