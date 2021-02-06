@@ -1,0 +1,34 @@
+{
+    "date": "d-m-Y",
+    "default_account": 28,
+    "delimiter": "semicolon",
+    "headers": false,
+    "ignore_duplicate_lines": false,
+    "ignore_duplicate_transactions": true,
+    "rules": true,
+    "skip_form": false,
+    "add_import_tag": true,
+    "specifics": [],
+    "roles": [
+        "date_book",
+        "date_transaction",
+        "description",
+        "amount",
+        "currency-code",
+        "note",
+        "category-name",
+        "account-name"
+    ],
+    "do_mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "mapping": [],
+    "version": 2
+}
